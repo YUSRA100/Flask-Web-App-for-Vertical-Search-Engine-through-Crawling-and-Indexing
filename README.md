@@ -17,3 +17,4 @@ Elasticsearch makes it very easy to search for relevant data using its search AP
 
 ## 4. UI (Web app):
 For User Interface, flask framework is used. There are two main pages of the web interface named as search.html and results.html pages. 
+To run the code, open anaconda prompt and go into the folder where app.py is located. Type flask run and it will start up on port 5000. Home page will open up in the browser
