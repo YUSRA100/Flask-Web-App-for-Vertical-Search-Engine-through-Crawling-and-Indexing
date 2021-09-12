@@ -1,4 +1,4 @@
 flask 
 numpy
 elasticsearch
-beautifulsoup
+beautifulsoup4
